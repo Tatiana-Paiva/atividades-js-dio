@@ -25,7 +25,7 @@ Referente as aulas de JavaScript da [Digital Innovation One](https://web.dio.me/
 
 ## Atividade 1 - Funções
 
-1- Crie uma função que recebe o array [b] alunos e um número que irá representar a média final;
+1- Crie uma função que recebe o array  alunos e um número que irá representar a média final;
 2- Percorra o array e popule um novo array auxiliar apenas com os alunos cujas notas são maiores ou igual a média;
 3- Utilize a técnica "object destructuring" para manipular as propriedades desejadas de cada aluno.
 
@@ -33,5 +33,5 @@ Referente as aulas de JavaScript da [Digital Innovation One](https://web.dio.me/
 
 # Atividade 2 - This
 
-- Dada a função [b] calcularIdade, utilize os métodos [i] call e [i] apply para modificar o valor de [b] this. 
+- Dada a função calcularIdade, utilize os métodos  call e  apply para modificar o valor de [bthis. 
 - Crie seus próprios objetos para esta atividade.
