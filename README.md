@@ -35,3 +35,14 @@ Referente as aulas de JavaScript da [Digital Innovation One](https://web.dio.me/
 
 - Dada a função calcularIdade, utilize os métodos  call e  apply para modificar o valor de [bthis. 
 - Crie seus próprios objetos para esta atividade.
+
+
+# Atividade MAP
+
+- Crie uma função getAdmins que recebe um Map;
+- Crie um Map e popule-o com nomes de usuários e seus papéis no sitema (Ex: 'Luiz', 'Admin');
+-Dentro do getAdmins, utilize o loop for...of para retornar uma lista com os nomes dos usuários que são administradores.
+
+# Atividade Set
+
+- Dado o Array [30, 30, 40, 5, 223, 2049, 3034, 5], retorne outro array apenas com valores únicos.
