@@ -59,3 +59,20 @@ Referente as aulas de JavaScript da [Digital Innovation One](https://web.dio.me/
 
 - Some todos os números de um array;
 - Crie uma função que recebe uma lista de preços e um número representando um saldo disponível. Calcule qual será o saldo final após subtrair todos os preços da lista enviado.
+
+# Atividade - Debugging e Error Handling
+
+## Validação de erros por tipo:
+
+O objetivo é que a função receba um Array e retorne ele, caso o seu tamanho corresponda ao número enviado como parâmetro na função. Caso contrário, um erro será lançado.
+
+- Crie uma função que recebe um array e um número;
+- Realize as seguintes validações:
+
+- Se os parâmetros não forem enviados, lance um erro do tipo ReferenceError;
+- Se o array não for do tipo object, lance um erro do tipo TypeError;
+- Se o número não for do tipo number, lance um erro do tipo TypeError;
+- Se o tamanho do Array for diferente do número enviado como parâmentro, lance um erro do tipo RangeError;
+
+- Utilize a declaração try...catch;
+- Filtre as chamadas de catch porcada tipo de erro utilizando o operador Instaceof.
