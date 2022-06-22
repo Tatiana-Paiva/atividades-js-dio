@@ -46,3 +46,16 @@ Referente as aulas de JavaScript da [Digital Innovation One](https://web.dio.me/
 # Atividade Set
 
 - Dado o Array [30, 30, 40, 5, 223, 2049, 3034, 5], retorne outro array apenas com valores únicos.
+
+# Atividade - MAP
+
+- Pratique a sintaxe de multiplicação de números, uma vez utilizando o parâmetro this de um objeto criado por você, e depois use ele.
+
+# Atividade - Filter
+
+- Filtre e retorne todos os números pares de um array.
+
+# Atividade - Reduce
+
+- Some todos os números de um array;
+- Crie uma função que recebe uma lista de preços e um número representando um saldo disponível. Calcule qual será o saldo final após subtrair todos os preços da lista enviado.
