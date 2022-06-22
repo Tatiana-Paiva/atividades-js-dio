@@ -76,3 +76,11 @@ O objetivo é que a função receba um Array e retorne ele, caso o seu tamanho c
 
 - Utilize a declaração try...catch;
 - Filtre as chamadas de catch porcada tipo de erro utilizando o operador Instaceof.
+
+
+# Atividade - API - catAPI
+
+Nesta atividade vamos criar uma página que carrega fotos aleatórias de gatinhos sempre que clicarmos no botão.
+
+- Utilize a API https://thatcopy.pw/catapi/rest/ para fazer as chamadas com o método fetch();
+- Utilize seus conhecimentos na manipulação do DOM para criar a imagem e ativaro evento de clique de botão.
