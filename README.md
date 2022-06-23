@@ -84,3 +84,19 @@ Nesta atividade vamos criar uma página que carrega fotos aleatórias de gatinho
 
 - Utilize a API https://thatcopy.pw/catapi/rest/ para fazer as chamadas com o método fetch();
 - Utilize seus conhecimentos na manipulação do DOM para criar a imagem e ativaro evento de clique de botão.
+
+# Atividade - Orientação a Objetos
+
+## Conta Bancária
+
+Nesta atividade, vamos testar os conceitos de orientação a Objetos, simulando a criação de diversos tipos de contas bancárias e operações.
+
+- Crie a classe ** contaBancaria **, que possui os parâmetros agência, números, tipo e saldo;
+- Dentro da contaBancaria, construa o Getter e o Setter de saldo;
+- Dentro de contaBancaria, crie os métodos sacar e depositar;
+- Crie uma classe-filha chamada ** contaCorrente **, que herda todos esses parâmetros e ainda possua o parâmetro cartaoCredito;
+- Ainda em contaCorrente, construa o getter e o setter de cartaoCredito;
+- Ainda em contaCorrente, faça com que o tipo seja contaCorrente por padrão;
+- Crie uma classe-filha chamada contaPoupanca que herda todos os parâmetros de contaBancaria;
+- Crie uma classe-filha chamada contaUniversitaria que herda todos os parâmetros de contaBancaria;
+- Faça com que o método de saque de contaUniversitaria apenas seja capaz de sacar valores menores que 500 reais.
