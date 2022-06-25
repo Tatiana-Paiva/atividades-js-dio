@@ -120,3 +120,13 @@ Esta atividade tem como objetivo que você veja no console do seu navegador como
 - Faça a chamada de todas elas;
 
 - Utilizando a extensão Lever Server, abra o seu navegador e veja no console que as informações foram logadas corretamente.
+
+# Atividade - Manipulando Dom
+
+## Light Mode/ Dark Mode
+
+-  Crie uma estrutura básica de projeto front-end (HTML, CSSA e JS);
+- Copie o HTML e o CSS do repositório;
+- Crie um arquivo chamado  script.js na sua pasta assets/js;
+- Selecione os elementos h1, button, body e footer;
+- Se os elementos possuírem a classe dark-mode, modifique sesus estilos. Caso contrário, volte os estilos para o original.
