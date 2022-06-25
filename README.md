@@ -100,3 +100,23 @@ Nesta atividade, vamos testar os conceitos de orientação a Objetos, simulando 
 - Crie uma classe-filha chamada contaPoupanca que herda todos os parâmetros de contaBancaria;
 - Crie uma classe-filha chamada contaUniversitaria que herda todos os parâmetros de contaBancaria;
 - Faça com que o método de saque de contaUniversitaria apenas seja capaz de sacar valores menores que 500 reais.
+
+# Atividade - Módulos em JavaScript
+
+
+Esta atividade tem como objetivo que você veja no console do seu navegador como os módulos funcionam.
+
+- Instale a extensão Lever Server no seu Visual Code;
+- Crie dois arquivos, .js e .mjs, um chamado funções e o outro chamado de main;
+
+- No aquivo funções:
+
+- Cria uma funcção chamada mostraIdade, que recebe, nome e idade, e retorna a string: A idade de ${nome} é ${idade};
+- Siga o mesmo padrão para as outras funções como mostraCidade e mostraHobby.
+
+- Exporte as funções no arquivo main;
+
+- Importe as funções doa rquivo funções;
+- Faça a chamada de todas elas;
+
+- Utilizando a extensão Lever Server, abra o seu navegador e veja no console que as informações foram logadas corretamente.
