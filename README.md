@@ -111,7 +111,8 @@ Esta atividade tem como objetivo que você veja no console do seu navegador como
 
 - No aquivo funções:
 
-- Cria uma funcção chamada mostraIdade, que recebe, nome e idade, e retorna a string: A idade de ${nome} é ${idade};
+- Cria uma funcção chamada mostraIdade, que recebe, nome e idade, e retorna a string: A idade de 
+(nome e idade);
 - Siga o mesmo padrão para as outras funções como mostraCidade e mostraHobby.
 
 - Exporte as funções no arquivo main;
